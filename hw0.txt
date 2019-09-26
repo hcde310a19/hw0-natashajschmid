@@ -1,3 +1,16 @@
 # Description of your program (part 7)
 
+# After every time there is a space or group of spaces followed by a character or group of characters,
+# increase your count by 1.
+
+
 # Reflection on writing your program (part 8)
+
+# The previous exercise was a bit difficult for me to come up with and felt somewhat unsatisfying,
+# however I believe what I came up with should be satisfactory for the activity. THat being said, there
+# is still the possibility of ambiguity or misinterpretation.
+# I hope to leave this class with a basic understanding of how to code using Python, a skill that I would
+# like to transfer to other coding classes, as well as potentially utilize in a future career. Since the
+# only programming class I have taken is CSE 142, my brain still does not have a ton of practice with
+# "thinking like a coder," however I believe this can come with time. I find coding very fascinating, yet
+# in CSE 142 I also got very frustrated at times.
